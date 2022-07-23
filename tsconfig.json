@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
+    // Elememt+ Config
+    "types": [
+      "element-plus/global"
+    ],
+    
     "target": "ESNext",
     "useDefineForClassFields": true,
     "module": "ESNext",
